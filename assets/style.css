@@ -1,0 +1,33 @@
+
+body {
+    background-image: url(https://github.com/jsolahr/Basic-Portfolio/blob/master/assets/images/concrete_seamless.png?raw=true);
+    margin: 0px;
+    align-content: center;
+    overflow: hidden;
+}
+.row {
+    margin-top: 25px;
+}
+.col-md-12 {
+    margin: 10px;
+}
+.nav-link {
+    color: gray;
+}
+.navbar {
+    border-bottom: solid .2px lightgray;
+}
+
+img {
+    height: 200px;
+    width:200px;
+    margin-bottom: 20px;
+}
+.fixed-bottom {
+    background: black;
+    color: white;
+    text-align: center;
+}
+.container {
+    background-color: white;
+}
