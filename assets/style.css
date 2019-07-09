@@ -16,11 +16,6 @@ h2 {
     text-align: left;
     font-weight: bold;
     line-height: 35px;
-    
-}
-hr {
-    margin:0;
-    padding:0;
 }
 h3 {
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -29,6 +24,16 @@ h3 {
     font-size: 35px;
     padding: 10px;
     font-weight: bold;
+}
+h5 {
+    text-align: center;
+    background-color: #4aaaa5;
+    color: white;
+    padding: 15px;
+}
+hr {
+    margin:0;
+    padding:0;
 }
 .container {
     background-color: white;
