@@ -5,8 +5,44 @@ body {
     align-content: center;
     overflow: hidden;
 }
-.row {
-    margin-top: 25px;
+.fixed-top {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: teal;
+    color: white;
+    width: 200px;
+    height: 50px;
+    font-size: 25px;
+    margin-top: 15px;
+    margin-left: 75px;
+    text-align: center;
+    line-height: 50px;
+    font-weight: bold;
+}
+h3 {
+    border: 1px solid black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: teal;
+    background-color: white;
+    font-size: 35px;
+    margin-left: 0px;
+    text-align: left;
+    font-weight: bold;
+}
+h2 {
+    border: 1px solid black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: teal;
+    background-color: white;
+    font-size: 35px;
+    margin-left: 0px;
+    text-align: left;
+    font-weight: bold;
+
+}
+.container {
+    background-color: white;
+    border: black 1px solid;
+    margin-top: 10px;
 }
 .col-md-12 {
     margin: 10px;
@@ -16,18 +52,22 @@ body {
 }
 .navbar {
     border-bottom: solid .2px lightgray;
+    margin:0px;
+    margin: 0px;
 }
 
 img {
     height: 200px;
     width:200px;
     margin-bottom: 20px;
+    border-color: white solid 2px;
 }
 .fixed-bottom {
-    background: black;
+    background: gray;
     color: white;
     text-align: center;
-}
-.container {
-    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 40px;
+    border-top: solid teal 8px;
+    font-size: 12px;
 }
