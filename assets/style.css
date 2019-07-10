@@ -3,8 +3,8 @@ body {
     background-image: url(https://github.com/jsolahr/Basic-Portfolio/blob/master/assets/images/concrete_seamless.png?raw=true);
     margin: 0px;
     align-content: center;
-    overflow: hidden;
     color: gray;
+
 }
 h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
